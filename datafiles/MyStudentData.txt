@@ -1,0 +1,196 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2016-08-04-16.42.03.617
+Student First Name:DAVID
+Student Middle Initial:T
+Student Last Name:MCDONALD
+Student Street Address 1:
+Student Street Address 2:
+Student City:
+Student State Code:  
+Student Country Code:  
+Student Zip Code:
+Student Email Address:
+Student Home Phone Country Code:
+Student Home Phone Number:
+Student Home Phone Preferred:
+Student Cell Phone Country Code:
+Student Cell Phone Number:
+Student Cell Phone Preferred:
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:7.5
+Student SULA Subsidized Usage Period:1.0
+Student SULA Remaining Eligibility Period:6.5
+Student Enrollment Status:FULL TIME
+Student Enrollment Status Effective Date:08/21/2014
+Student Total All Loans Outstanding Principal:$2,200
+Student Total All Loans Outstanding Interest:$0
+Student Pell Lifetime Eligibility Used:462.504%
+Student Total All Grants:$21,801
+Total DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE) Outstanding Principal:$2,200
+Total DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE) Outstanding Interest:$0
+Loan Type:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****5508S15G01081001
+Loan Attending School Name:ARIZONA STATE UNIVERSITY
+Loan Attending School OPEID:00108100
+Loan Date:09/20/2014
+Loan Repayment Begin Date:11/16/2018
+Loan Period Begin Date:08/21/2014
+Loan Period End Date:05/15/2015
+Loan Amount:$2,200
+Loan Disbursed Amount:$2,200
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,200
+Loan Outstanding Principal Balance as of Date:06/30/2016
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:06/30/2016
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:4.66%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:Subsidized
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/16/2018
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/20/2014
+Loan Disbursement Date:01/02/2015
+Loan Disbursement Amount:$1,100
+Loan Disbursement Date:09/20/2014
+Loan Disbursement Amount:$1,100
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:PO BOX 530229
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:303530229
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:mygreatlakes.org
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:ARIZONA STATE UNIVERSITY
+Grant Attending School OPEID:00108100
+Grant Award Year:2015 - 2016
+Grant Scheduled Amount:$5,225
+Grant Award Amount:$5,225
+Grant Disbursed Amount:$5,225
+Grant Remaining Amount to be Paid:$0
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Grant Contact Type:Attending School
+Grant Contact Name:ARIZONA STATE UNIVERSITY
+Grant Contact Street Address 1:STUDENT FINANCIAL ASSISTANCE OFFICE1151 SOUTH FORE
+Grant Contact Street Address 2:
+Grant Contact City:TEMPE
+Grant Contact State Code:AZ
+Grant Contact Zip Code:852870412
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:ARIZONA STATE UNIVERSITY
+Grant Attending School OPEID:00108100
+Grant Award Year:2014 - 2015
+Grant Scheduled Amount:$4,780
+Grant Award Amount:$4,780
+Grant Disbursed Amount:$4,780
+Grant Remaining Amount to be Paid:$0
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Grant Contact Type:Attending School
+Grant Contact Name:ARIZONA STATE UNIVERSITY
+Grant Contact Street Address 1:STUDENT FINANCIAL ASSISTANCE OFFICE1151 SOUTH FORE
+Grant Contact Street Address 2:
+Grant Contact City:TEMPE
+Grant Contact State Code:AZ
+Grant Contact Zip Code:852870412
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:SCOTTSDALE COMMUNITY COLLEGE
+Grant Attending School OPEID:00830400
+Grant Award Year:2013 - 2014
+Grant Scheduled Amount:$5,195
+Grant Award Amount:$5,195
+Grant Disbursed Amount:$3,896
+Grant Remaining Amount to be Paid:$1,299
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Grant Contact Type:Attending School
+Grant Contact Name:SCOTTSDALE COMMUNITY COLLEGE
+Grant Contact Street Address 1:9000 EAST CHAPARRAL ROAD
+Grant Contact Street Address 2:
+Grant Contact City:SCOTTSDALE
+Grant Contact State Code:AZ
+Grant Contact Zip Code:852562626
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:SCOTTSDALE COMMUNITY COLLEGE
+Grant Attending School OPEID:00830400
+Grant Award Year:2012 - 2013
+Grant Scheduled Amount:$4,400
+Grant Award Amount:$4,400
+Grant Disbursed Amount:$3,850
+Grant Remaining Amount to be Paid:$550
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Grant Contact Type:Attending School
+Grant Contact Name:SCOTTSDALE COMMUNITY COLLEGE
+Grant Contact Street Address 1:9000 EAST CHAPARRAL ROAD
+Grant Contact Street Address 2:
+Grant Contact City:SCOTTSDALE
+Grant Contact State Code:AZ
+Grant Contact Zip Code:852562626
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:ARIZONA STATE UNIVERSITY
+Grant Attending School OPEID:00108100
+Grant Award Year:2011 - 2012
+Grant Scheduled Amount:$5,400
+Grant Award Amount:$5,400
+Grant Disbursed Amount:$2,700
+Grant Remaining Amount to be Paid:$2,700
+Grant First Time:No
+Grant Additional Eligibility:No
+Grant Contact Type:Attending School
+Grant Contact Name:ARIZONA STATE UNIVERSITY
+Grant Contact Street Address 1:STUDENT FINANCIAL ASSISTANCE OFFICE1151 SOUTH FORE
+Grant Contact Street Address 2:
+Grant Contact City:TEMPE
+Grant Contact State Code:AZ
+Grant Contact Zip Code:852870412
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:ARIZONA STATE UNIVERSITY
+Grant Attending School OPEID:00108100
+Grant Award Year:2010 - 2011
+Grant Scheduled Amount:$2,700
+Grant Award Amount:$2,700
+Grant Disbursed Amount:$1,350
+Grant Remaining Amount to be Paid:$1,350
+Grant First Time:No
+Grant Additional Eligibility:No
+Grant Contact Type:Attending School
+Grant Contact Name:ARIZONA STATE UNIVERSITY
+Grant Contact Street Address 1:STUDENT FINANCIAL ASSISTANCE OFFICE1151 SOUTH FORE
+Grant Contact Street Address 2:
+Grant Contact City:TEMPE
+Grant Contact State Code:AZ
+Grant Contact Zip Code:852870412
+Program School Name:ARIZONA STATE UNIVERSITY
+Program School OPEID:00108100
+Program CIP Title:Computer Software Engineering.
+Program Credential Level:Bachelor's Degree
+Program Begin Date:03/31/2014
+Program Published Length in Years:5.0
+Program Status Description:Full Time
+Program Status Effective Date:01/11/2016
+Award School Name:ARIZONA STATE UNIVERSITY
+Award School OPEID:00108100
+Award Earliest Disbursement Date:09/20/2014
+Award Loan Period Begin Date:08/21/2014
+Award Loan Period End Date:05/15/2015
+Award Subsidized Usage:1.0
+Award Subsidy Status:Subsidized
